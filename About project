@@ -1,0 +1,3 @@
+The general purpose of the program is to issue quotations for the product selected by the user.
+This can be done in two ways (according to the user's wishes), either to issue all products together with technical data and the offers of each or by choosing two parameters based on
+which the program issues the product(s) corresponding to the parameters selected by the user and offers.
