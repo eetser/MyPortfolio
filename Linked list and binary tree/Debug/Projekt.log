@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\eevam\OneDrive\Töölaud\TalTech\III semester\Algoritmid ja andmestruktuurid\Projekt\Main.cpp(178): warning C4715: 'IsLetters': not all control paths return a value
+C:\Users\eevam\OneDrive\Töölaud\TalTech\III semester\Algoritmid ja andmestruktuurid\Projekt\Main.cpp(209): warning C4715: 'InputCompatibility': not all control paths return a value
+  Projekt.vcxproj -> C:\Users\eevam\OneDrive\Töölaud\TalTech\III semester\Algoritmid ja andmestruktuurid\Projekt\Debug\Projekt.exe
